@@ -1,0 +1,22 @@
+What I Learned So Far
+I started learning Python a few days ago.
+Till now I have learned:
+
+print() to show things on screen
+input() to take input from user
+variables (to save username, password, numbers etc)
+if, elif, else for making decisions
+and and or
+while loop (including while True)
+for loop with range()
+a little bit about def (functions)
+
+I also tried making small programs like:
+
+create account and login system
+grade checker
+simple calculator type things
+
+Right now I am still a beginner. I make many spelling mistakes and small errors but I am learning how to fix them.
+My goal is to keep practicing every day and become good at Python.
+I will update this file time to time.
